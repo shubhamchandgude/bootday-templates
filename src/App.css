@@ -1,0 +1,41 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.css-154xyx0-MuiInputBase-root-MuiOutlinedInput-root {
+  border-radius: 30px !important;
+  display: flex !important;
+}
+
+.css-14s5rfu-MuiFormLabel-root-MuiInputLabel-root {
+  font-size: 20px !important;
+  margin-bottom: 7px;
+}
+
+.custom-button {
+  background: none;
+  border: none;
+}
+
+.css-1kl9hmi-MuiSvgIcon-root {
+  width: 50 !important;
+  height: 50 !important;
+}
+
+.MuiTablePagination-displayedRows {
+  margin-bottom: 0 !important;
+}
+
+.MuiTablePagination-selectLabel {
+  margin-bottom: 0 !important;
+}
+
+.MuiDivider-root.MuiDivider-fullWidth.css-9mgopn-MuiDivider-root {
+  border-color: #0a4343 !important;
+}
+
+.css-kzyyzb-MuiDataGrid-root {
+  --unstable_DataGrid-headWeight: 700 !important;
+  font-size: 1rem !important;
+}
